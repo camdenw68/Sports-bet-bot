@@ -1159,7 +1159,8 @@ export interface NbaPlayer {
         ft = `${Math.floor(player.stats.ft_pct * 100 * (0.8 + random(0, 0.4, i + 70)))}%`
       } else {
         // Forwards
-        pts = Math.floor(player.stats.ppg * (0.7 + random(0, 0.6, i)))
+        pts = Math.floor(player.stats.ppg
+           * (0.7 + random(0, 0.6, i)))
         reb = Math.floor(player.stats.rpg * (0.7 + random(0, 0.6, i + 10)))
         ast = Math.floor(player.stats.apg * (0.7 + random(0, 0.6, i + 20)))
         stl = Math.floor(player.stats.spg * (0.7 + random(0, 0.6, i + 30)))

@@ -1,0 +1,588 @@
+[
+    {
+      "first_name": "LeBron",
+      "last_name": "James",
+      "full_name": "LeBron James",
+      "position": "SF",
+      "team_abbreviation": "LAL",
+      "team_id": "61cad028-30f8-4a9c-bb6f-8201df35a3a8"
+    },
+    {
+      "first_name": "Stephen",
+      "last_name": "Curry",
+      "full_name": "Stephen Curry",
+      "position": "PG",
+      "team_abbreviation": "GSW",
+      "team_id": "9e6dd6b6-b8c8-4c40-9a21-600611b5a7d3"
+    },
+    {
+      "first_name": "Kevin",
+      "last_name": "Durant",
+      "full_name": "Kevin Durant",
+      "position": "PF",
+      "team_abbreviation": "PHX",
+      "team_id": "5e3613df-f8c7-4bf7-82d4-a0dd8b08b233"
+    },
+    {
+      "first_name": "Giannis",
+      "last_name": "Antetokounmpo",
+      "full_name": "Giannis Antetokounmpo",
+      "position": "PF",
+      "team_abbreviation": "MIL",
+      "team_id": "a2d3c8cd-c6c0-4b18-ac04-964d91d846a3"
+    },
+    {
+      "first_name": "Nikola",
+      "last_name": "Jokic",
+      "full_name": "Nikola Jokic",
+      "position": "C",
+      "team_abbreviation": "DEN",
+      "team_id": "964d4644-cf5f-430d-a823-7be54194d23c"
+    },
+    {
+      "first_name": "Luka",
+      "last_name": "Doncic",
+      "full_name": "Luka Doncic",
+      "position": "PG",
+      "team_abbreviation": "DAL",
+      "team_id": "a562bd0f-342c-4caf-9737-a742e306fb33"
+    },
+    {
+      "first_name": "Joel",
+      "last_name": "Embiid",
+      "full_name": "Joel Embiid",
+      "position": "C",
+      "team_abbreviation": "PHI",
+      "team_id": "c1230c92-6291-4ddb-9595-d985c0d67d3c"
+    },
+    {
+      "first_name": "Jayson",
+      "last_name": "Tatum",
+      "full_name": "Jayson Tatum",
+      "position": "SF",
+      "team_abbreviation": "BOS",
+      "team_id": "c691a64c-d463-49b9-9944-bfcfea1b1a6b"
+    },
+    {
+      "first_name": "Ja",
+      "last_name": "Morant",
+      "full_name": "Ja Morant",
+      "position": "PG",
+      "team_abbreviation": "MEM",
+      "team_id": "717a3e37-9839-4bb4-a0d5-4ebbb8377005"
+    },
+    {
+      "first_name": "Anthony",
+      "last_name": "Davis",
+      "full_name": "Anthony Davis",
+      "position": "PF",
+      "team_abbreviation": "LAL",
+      "team_id": "61cad028-30f8-4a9c-bb6f-8201df35a3a8"
+    },
+    {
+      "first_name": "Devin",
+      "last_name": "Booker",
+      "full_name": "Devin Booker",
+      "position": "SG",
+      "team_abbreviation": "PHX",
+      "team_id": "5e3613df-f8c7-4bf7-82d4-a0dd8b08b233"
+    },
+    {
+      "first_name": "Jimmy",
+      "last_name": "Butler",
+      "full_name": "Jimmy Butler",
+      "position": "SF",
+      "team_abbreviation": "MIA",
+      "team_id": "146573af-8c39-488c-b6b2-ea9b6bfddf5d"
+    },
+    {
+      "first_name": "Kawhi",
+      "last_name": "Leonard",
+      "full_name": "Kawhi Leonard",
+      "position": "SF",
+      "team_abbreviation": "LAC",
+      "team_id": "d4af9ec5-487f-4a1e-b3be-f5fdc0588879"
+    },
+    {
+      "first_name": "Damian",
+      "last_name": "Lillard",
+      "full_name": "Damian Lillard",
+      "position": "PG",
+      "team_abbreviation": "MIL",
+      "team_id": "a2d3c8cd-c6c0-4b18-ac04-964d91d846a3"
+    },
+    {
+      "first_name": "James",
+      "last_name": "Harden",
+      "full_name": "James Harden",
+      "position": "SG",
+      "team_abbreviation": "LAC",
+      "team_id": "d4af9ec5-487f-4a1e-b3be-f5fdc0588879"
+    },
+    {
+      "first_name": "Donovan",
+      "last_name": "Mitchell",
+      "full_name": "Donovan Mitchell",
+      "position": "SG",
+      "team_abbreviation": "CLE",
+      "team_id": "85f0f65c-29c8-4174-80b6-e0e133cc8cf0"
+    },
+    {
+      "first_name": "Zion",
+      "last_name": "Williamson",
+      "full_name": "Zion Williamson",
+      "position": "PF",
+      "team_abbreviation": "NOP",
+      "team_id": "f9309927-3bef-494f-932a-580ebe224af0"
+    },
+    {
+      "first_name": "LaMelo",
+      "last_name": "Ball",
+      "full_name": "LaMelo Ball",
+      "position": "PG",
+      "team_abbreviation": "CHA",
+      "team_id": "245e2b8e-d267-46f0-aed9-4e550c8bbc50"
+    },
+    {
+      "first_name": "Karl-Anthony",
+      "last_name": "Towns",
+      "full_name": "Karl-Anthony Towns",
+      "position": "C",
+      "team_abbreviation": "MIN",
+      "team_id": "9b60799f-94fa-4823-8735-1d32f28d2eb4"
+    },
+    {
+      "first_name": "Tyrese",
+      "last_name": "Haliburton",
+      "full_name": "Tyrese Haliburton",
+      "position": "PG",
+      "team_abbreviation": "IND",
+      "team_id": "484eeca1-19a0-4bd7-8687-f47d9cd8589f"
+    },
+    {
+      "first_name": "De'Aaron",
+      "last_name": "Fox",
+      "full_name": "De'Aaron Fox",
+      "position": "PG",
+      "team_abbreviation": "SAC",
+      "team_id": "686948a3-c005-440c-af54-6083639516c0"
+    },
+    {
+      "first_name": "Shai",
+      "last_name": "Gilgeous-Alexander",
+      "full_name": "Shai Gilgeous-Alexander",
+      "position": "SG",
+      "team_abbreviation": "OKC",
+      "team_id": "efc28d3d-14f0-4830-b542-7b497ba59005"
+    },
+    {
+      "first_name": "Jalen",
+      "last_name": "Brunson",
+      "full_name": "Jalen Brunson",
+      "position": "PG",
+      "team_abbreviation": "NYK",
+      "team_id": "2cb85218-d7e6-49cf-b5c3-7e8d3c288071"
+    },
+    {
+      "first_name": "Jaylen",
+      "last_name": "Brown",
+      "full_name": "Jaylen Brown",
+      "position": "SG",
+      "team_abbreviation": "BOS",
+      "team_id": "c691a64c-d463-49b9-9944-bfcfea1b1a6b"
+    },
+    {
+      "first_name": "Bam",
+      "last_name": "Adebayo",
+      "full_name": "Bam Adebayo",
+      "position": "C",
+      "team_abbreviation": "MIA",
+      "team_id": "146573af-8c39-488c-b6b2-ea9b6bfddf5d"
+    },
+    {
+      "first_name": "Michael",
+      "last_name": "Jordan",
+      "full_name": "Michael Jordan",
+      "position": "SG",
+      "team_abbreviation": "CHI",
+      "team_id": "7ea01f0e-4685-4207-8b89-24ecf25e891b"
+    },
+    {
+      "first_name": "Kobe",
+      "last_name": "Bryant",
+      "full_name": "Kobe Bryant",
+      "position": "SG",
+      "team_abbreviation": "LAL",
+      "team_id": "61cad028-30f8-4a9c-bb6f-8201df35a3a8"
+    },
+    {
+      "first_name": "Magic",
+      "last_name": "Johnson",
+      "full_name": "Magic Johnson",
+      "position": "PG",
+      "team_abbreviation": "LAL",
+      "team_id": "61cad028-30f8-4a9c-bb6f-8201df35a3a8"
+    },
+    {
+      "first_name": "Larry",
+      "last_name": "Bird",
+      "full_name": "Larry Bird",
+      "position": "SF",
+      "team_abbreviation": "BOS",
+      "team_id": "c691a64c-d463-49b9-9944-bfcfea1b1a6b"
+    },
+    {
+      "first_name": "Shaquille",
+      "last_name": "O'Neal",
+      "full_name": "Shaquille O'Neal",
+      "position": "C",
+      "team_abbreviation": "LAL",
+      "team_id": "61cad028-30f8-4a9c-bb6f-8201df35a3a8"
+    },
+    {
+      "first_name": "Kareem",
+      "last_name": "Abdul-Jabbar",
+      "full_name": "Kareem Abdul-Jabbar",
+      "position": "C",
+      "team_abbreviation": "LAL",
+      "team_id": "61cad028-30f8-4a9c-bb6f-8201df35a3a8"
+    },
+    {
+      "first_name": "Tim",
+      "last_name": "Duncan",
+      "full_name": "Tim Duncan",
+      "position": "PF",
+      "team_abbreviation": "SAS",
+      "team_id": "e88ce1bd-c539-464e-8a22-131995667dc7"
+    },
+    {
+      "first_name": "Bill",
+      "last_name": "Russell",
+      "full_name": "Bill Russell",
+      "position": "C",
+      "team_abbreviation": "BOS",
+      "team_id": "c691a64c-d463-49b9-9944-bfcfea1b1a6b"
+    },
+    {
+      "first_name": "Wilt",
+      "last_name": "Chamberlain",
+      "full_name": "Wilt Chamberlain",
+      "position": "C",
+      "team_abbreviation": "LAL",
+      "team_id": "61cad028-30f8-4a9c-bb6f-8201df35a3a8"
+    },
+    {
+      "first_name": "Oscar",
+      "last_name": "Robertson",
+      "full_name": "Oscar Robertson",
+      "position": "PG",
+      "team_abbreviation": "MIL",
+      "team_id": "a2d3c8cd-c6c0-4b18-ac04-964d91d846a3"
+    },
+    {
+      "first_name": "Jerry",
+      "last_name": "West",
+      "full_name": "Jerry West",
+      "position": "SG",
+      "team_abbreviation": "LAL",
+      "team_id": "61cad028-30f8-4a9c-bb6f-8201df35a3a8"
+    },
+    {
+      "first_name": "Hakeem",
+      "last_name": "Olajuwon",
+      "full_name": "Hakeem Olajuwon",
+      "position": "C",
+      "team_abbreviation": "HOU",
+      "team_id": "6b1dd24c-df06-4b06-a935-96b87029472a"
+    },
+    {
+      "first_name": "Dirk",
+      "last_name": "Nowitzki",
+      "full_name": "Dirk Nowitzki",
+      "position": "PF",
+      "team_abbreviation": "DAL",
+      "team_id": "a562bd0f-342c-4caf-9737-a742e306fb33"
+    },
+    {
+      "first_name": "Charles",
+      "last_name": "Barkley",
+      "full_name": "Charles Barkley",
+      "position": "PF",
+      "team_abbreviation": "PHX",
+      "team_id": "5e3613df-f8c7-4bf7-82d4-a0dd8b08b233"
+    },
+    {
+      "first_name": "Allen",
+      "last_name": "Iverson",
+      "full_name": "Allen Iverson",
+      "position": "SG",
+      "team_abbreviation": "PHI",
+      "team_id": "c1230c92-6291-4ddb-9595-d985c0d67d3c"
+    },
+    {
+      "first_name": "Dwyane",
+      "last_name": "Wade",
+      "full_name": "Dwyane Wade",
+      "position": "SG",
+      "team_abbreviation": "MIA",
+      "team_id": "146573af-8c39-488c-b6b2-ea9b6bfddf5d"
+    },
+    {
+      "first_name": "Kevin",
+      "last_name": "Garnett",
+      "full_name": "Kevin Garnett",
+      "position": "PF",
+      "team_abbreviation": "MIN",
+      "team_id": "9b60799f-94fa-4823-8735-1d32f28d2eb4"
+    },
+    {
+      "first_name": "Paul",
+      "last_name": "Pierce",
+      "full_name": "Paul Pierce",
+      "position": "SF",
+      "team_abbreviation": "BOS",
+      "team_id": "c691a64c-d463-49b9-9944-bfcfea1b1a6b"
+    },
+    {
+      "first_name": "Chris",
+      "last_name": "Webber",
+      "full_name": "Chris Webber",
+      "position": "PF",
+      "team_abbreviation": "SAC",
+      "team_id": "686948a3-c005-440c-af54-6083639516c0"
+    },
+    {
+      "first_name": "Vince",
+      "last_name": "Carter",
+      "full_name": "Vince Carter",
+      "position": "SG",
+      "team_abbreviation": "TOR",
+      "team_id": "85e3f89d-4b12-4831-85e0-6388f046e832"
+    },
+    {
+      "first_name": "Tracy",
+      "last_name": "McGrady",
+      "full_name": "Tracy McGrady",
+      "position": "SG",
+      "team_abbreviation": "ORL",
+      "team_id": "99dc58be-4729-4f25-a998-24d227221b82"
+    },
+    {
+      "first_name": "Patrick",
+      "last_name": "Ewing",
+      "full_name": "Patrick Ewing",
+      "position": "C",
+      "team_abbreviation": "NYK",
+      "team_id": "2cb85218-d7e6-49cf-b5c3-7e8d3c288071"
+    },
+    {
+      "first_name": "Reggie",
+      "last_name": "Miller",
+      "full_name": "Reggie Miller",
+      "position": "SG",
+      "team_abbreviation": "IND",
+      "team_id": "484eeca1-19a0-4bd7-8687-f47d9cd8589f"
+    },
+    {
+      "first_name": "Dennis",
+      "last_name": "Rodman",
+      "full_name": "Dennis Rodman",
+      "position": "PF",
+      "team_abbreviation": "CHI",
+      "team_id": "7ea01f0e-4685-4207-8b89-24ecf25e891b"
+    },
+    {
+      "first_name": "Ray",
+      "last_name": "Allen",
+      "full_name": "Ray Allen",
+      "position": "SG",
+      "team_abbreviation": "BOS",
+      "team_id": "c691a64c-d463-49b9-9944-bfcfea1b1a6b"
+    },
+    {
+      "first_name": "Steve",
+      "last_name": "Nash",
+      "full_name": "Steve Nash",
+      "position": "PG",
+      "team_abbreviation": "PHX",
+      "team_id": "5e3613df-f8c7-4bf7-82d4-a0dd8b08b233"
+    },
+    {
+      "first_name": "Yao",
+      "last_name": "Ming",
+      "full_name": "Yao Ming",
+      "position": "C",
+      "team_abbreviation": "HOU",
+      "team_id": "6b1dd24c-df06-4b06-a935-96b87029472a"
+    },
+    {
+      "first_name": "Dominique",
+      "last_name": "Wilkins",
+      "full_name": "Dominique Wilkins",
+      "position": "SF",
+      "team_abbreviation": "ATL",
+      "team_id": "f1bc2037-6bea-4068-b95f-733e54645f3a"
+    },
+    {
+      "first_name": "Clyde",
+      "last_name": "Drexler",
+      "full_name": "Clyde Drexler",
+      "position": "SG",
+      "team_abbreviation": "POR",
+      "team_id": "7a5b760d-b942-4e84-8fe7-f746ce8c35d0"
+    },
+    {
+      "first_name": "George",
+      "last_name": "Gervin",
+      "full_name": "George Gervin",
+      "position": "SG",
+      "team_abbreviation": "SAS",
+      "team_id": "e88ce1bd-c539-464e-8a22-131995667dc7"
+    },
+    {
+      "first_name": "David",
+      "last_name": "Robinson",
+      "full_name": "David Robinson",
+      "position": "C",
+      "team_abbreviation": "SAS",
+      "team_id": "e88ce1bd-c539-464e-8a22-131995667dc7"
+    },
+    {
+      "first_name": "Russell",
+      "last_name": "Westbrook",
+      "full_name": "Russell Westbrook",
+      "position": "PG",
+      "team_abbreviation": "LAC",
+      "team_id": "d4af9ec5-487f-4a1e-b3be-f5fdc0588879"
+    },
+    {
+      "first_name": "Blake",
+      "last_name": "Griffin",
+      "full_name": "Blake Griffin",
+      "position": "PF",
+      "team_abbreviation": "LAC",
+      "team_id": "d4af9ec5-487f-4a1e-b3be-f5fdc0588879"
+    },
+    {
+      "first_name": "Penny",
+      "last_name": "Hardaway",
+      "full_name": "Penny Hardaway",
+      "position": "PG",
+      "team_abbreviation": "ORL",
+      "team_id": "99dc58be-4729-4f25-a998-24d227221b82"
+    },
+    {
+      "first_name": "Chris",
+      "last_name": "Paul",
+      "full_name": "Chris Paul",
+      "position": "PG",
+      "team_abbreviation": "GSW",
+      "team_id": "9e6dd6b6-b8c8-4c40-9a21-600611b5a7d3"
+    },
+    {
+      "first_name": "Klay",
+      "last_name": "Thompson",
+      "full_name": "Klay Thompson",
+      "position": "SG",
+      "team_abbreviation": "GSW",
+      "team_id": "9e6dd6b6-b8c8-4c40-9a21-600611b5a7d3"
+    },
+    {
+      "first_name": "Manu",
+      "last_name": "Ginobili",
+      "full_name": "Manu Ginobili",
+      "position": "SG",
+      "team_abbreviation": "SAS",
+      "team_id": "e88ce1bd-c539-464e-8a22-131995667dc7"
+    },
+    {
+      "first_name": "Tony",
+      "last_name": "Parker",
+      "full_name": "Tony Parker",
+      "position": "PG",
+      "team_abbreviation": "SAS",
+      "team_id": "e88ce1bd-c539-464e-8a22-131995667dc7"
+    },
+    {
+      "first_name": "Ben",
+      "last_name": "Wallace",
+      "full_name": "Ben Wallace",
+      "position": "C",
+      "team_abbreviation": "DET",
+      "team_id": "df73aad5-9e15-48be-a7cd-e18857533227"
+    },
+    {
+      "first_name": "Chauncey",
+      "last_name": "Billups",
+      "full_name": "Chauncey Billups",
+      "position": "PG",
+      "team_abbreviation": "DET",
+      "team_id": "df73aad5-9e15-48be-a7cd-e18857533227"
+    },
+    {
+      "first_name": "Peja",
+      "last_name": "Stojakovic",
+      "full_name": "Peja Stojakovic",
+      "position": "SF",
+      "team_abbreviation": "SAC",
+      "team_id": "686948a3-c005-440c-af54-6083639516c0"
+    },
+    {
+      "first_name": "Kevin",
+      "last_name": "McHale",
+      "full_name": "Kevin McHale",
+      "position": "PF",
+      "team_abbreviation": "BOS",
+      "team_id": "c691a64c-d463-49b9-9944-bfcfea1b1a6b"
+    },
+    {
+      "first_name": "Robert",
+      "last_name": "Parish",
+      "full_name": "Robert Parish",
+      "position": "C",
+      "team_abbreviation": "BOS",
+      "team_id": "c691a64c-d463-49b9-9944-bfcfea1b1a6b"
+    },
+    {
+      "first_name": "Paul",
+      "last_name": "George",
+      "full_name": "Paul George",
+      "position": "SF",
+      "team_abbreviation": "LAC",
+      "team_id": "d4af9ec5-487f-4a1e-b3be-f5fdc0588879"
+    },
+    {
+      "first_name": "Demar",
+      "last_name": "DeRozan",
+      "full_name": "Demar DeRozan",
+      "position": "SF",
+      "team_abbreviation": "CHI",
+      "team_id": "7ea01f0e-4685-4207-8b89-24ecf25e891b"
+    },
+    {
+      "first_name": "Bradley",
+      "last_name": "Beal",
+      "full_name": "Bradley Beal",
+      "position": "SG",
+      "team_abbreviation": "PHX",
+      "team_id": "5e3613df-f8c7-4bf7-82d4-a0dd8b08b233"
+    },
+    {
+      "first_name": "Kyrie",
+      "last_name": "Irving",
+      "full_name": "Kyrie Irving",
+      "position": "PG",
+      "team_abbreviation": "DAL",
+      "team_id": "a562bd0f-342c-4caf-9737-a742e306fb33"
+    },
+    {
+      "first_name": "Draymond",
+      "last_name": "Green",
+      "full_name": "Draymond Green",
+      "position": "PF",
+      "team_abbreviation": "GSW",
+      "team_id": "9e6dd6b6-b8c8-4c40-9a21-600611b5a7d3"
+    }
+  ]
+  
+

@@ -12,6 +12,10 @@ import PlayerCard from "@/components/player-card"
 import { searchPlayers, getHistoricalMatchupStats, getTeamAbbreviations, type PlayerWithStats } from "@/lib/api"
 import PlayerSearchInfo from "@/components/player-search-info"
 import GameLogTable from "@/components/game-log-table"
+import { getTeams } from "@/lib/api"
+
+
+
 
 export default function Home() {
   const { messages, input, handleInputChange, handleSubmit, isLoading } = useChat({
@@ -31,6 +35,8 @@ export default function Home() {
   const [isLoadingHistorical, setIsLoadingHistorical] = useState(false)
   const [allTeams, setAllTeams] = useState<string[]>([])
   const [error, setError] = useState<string | null>(null)
+  const [teams, setTeams] = useState<any[]>([])
+
 
   // Fetch team abbreviations on component mount
   useEffect(() => {
@@ -140,14 +146,24 @@ export default function Home() {
 
   const handleSearch = async () => {
     if (searchQuery.trim().length === 0) return
-
+  
     setIsSearching(true)
     setError(null)
-
+  
     try {
       const players = await searchPlayers(searchQuery)
-      setSearchResults(players)
-      if (players.length === 0) {
+      const fetchedTeams = await getTeams()
+      setTeams(fetchedTeams)
+  
+      // Manually attach team info to players
+      const enrichedPlayers = players.map((player) => {
+        const team = fetchedTeams.find((t) => t.id === player.team_id)
+        return { ...player, team }
+      })
+  
+      setSearchResults(enrichedPlayers)
+  
+      if (enrichedPlayers.length === 0) {
         setError(`No players found matching "${searchQuery}"`)
       }
     } catch (err) {
@@ -158,6 +174,8 @@ export default function Home() {
       setIsSearching(false)
     }
   }
+  
+  
 
   const handlePlayerSelect = (player: PlayerWithStats) => {
     setSelectedPlayer(player)
